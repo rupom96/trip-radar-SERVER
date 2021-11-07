@@ -6,7 +6,7 @@ Here is the live API server link: https://grisly-mummy-07425.herokuapp.com
 
 Live deployed link of this website: https://tour-assignment-11-240ec.web.app/
 
-Client side code link: https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-rupom96
+Client side code link: https://github.com/rupom96/TRIP-RADAR
 
 ## Features and Functionality:
 
